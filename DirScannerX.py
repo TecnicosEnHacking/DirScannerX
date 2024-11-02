@@ -41,15 +41,15 @@ def main():
 
     if opcion == '1':
         print("Visitando canal de YouTube...")
-        https://www.youtube.com/@tecnicosenhacking
+        print("https://www.youtube.com/@tecnicosenhacking")
         sys.exit()
     elif opcion == '2':
         print("Visitando página de Facebook...")
-        https://www.facebook.com/profile.php?id=61567254489160
+        print("https://www.facebook.com/profile.php?id=61567254489160")
         sys.exit()
     elif opcion == '3':
         print("Uniéndose al canal de WhatsApp...")
-        https://whatsapp.com/channel/0029Vasu9Iy2ZjCsnXaOVA1E
+        print("https://whatsapp.com/channel/0029Vasu9Iy2ZjCsnXaOVA1E")
         sys.exit()
     elif opcion == '4':
         print("***************************************")
