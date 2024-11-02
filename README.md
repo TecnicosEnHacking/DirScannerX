@@ -20,7 +20,7 @@ Los desarrolladores no se responsabilizan de ningún uso indebido de **DirScanne
 
 1. Abre una terminal y clona el repositorio:
     ```bash
-    git clone https://github.com/tuusuario/DirScannerX.git
+    git clone https://github.com/TecnicosEnHacking/DirScannerX
     ```
 
 2. Navega al directorio de la herramienta:
